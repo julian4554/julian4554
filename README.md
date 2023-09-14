@@ -3,11 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Projekt 1 </b>
-  - [Projekt 1]()
+  - [Discord Bot](https://github.com/julian4554/DiscordBot)
 - <b> Projekt 2 </b>
-   - [Projekt 2]()
-- <b>Projekt 3</b>
-  - [Projekt3]()
+   - [Flashcard Software](https://github.com/julian4554/FlashcardTKinter)
+
 
 
 
