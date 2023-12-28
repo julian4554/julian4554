@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julian!
+<h1>Hi
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
