@@ -5,7 +5,7 @@
 - <b> Projekt 1 </b>
   - [Discord Bot](https://github.com/julian4554/DiscordBot)
 - <b> Projekt 2 </b>
-   - [Flashcard Software](https://github.com/julian4554/FlashcardTKinter)
+   - [Excel Ai Analyse Tool](https://github.com/julian4554/OrbisKi)
 
 
 
