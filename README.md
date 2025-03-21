@@ -1,4 +1,4 @@
-<h1>Hi mein Name ist Julian Bick und ich bin Werkstudent im Bereich Softwareentwicklung mit Fokus auf Prozessoptimierung und Automatisierung.
+<h4>Hi mein Name ist Julian Bick und ich bin Werkstudent im Bereich Softwareentwicklung mit Fokus auf Prozessoptimierung und Automatisierung.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
