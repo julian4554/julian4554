@@ -1,6 +1,6 @@
 <h2>Julian Bick</h2>
 
-# 💫 About Me:
+#  About Me:
 B.Sc. Softwareentwicklung. Ich interessiere mich für Cloud-Infrastruktur, CI/CD-Automatisierung und sichere Software.
 
 ---
