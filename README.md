@@ -1,4 +1,4 @@
-<h2>Hi, ich bin Julian Bick 👋</h2>
+<h2>Julian Bick</h2>
 B.Sc. Softwareentwicklung. 
 Ich interessiere mich für
 Cloud-Infrastruktur, CI/CD-Automatisierung und sichere Software.
